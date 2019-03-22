@@ -1,4 +1,4 @@
-#!/usr/intel/bin/ruby
+#!/usr/bin/ruby
 
 def getMaxFloors(marblesCount, dropsCount)
     puts "In getMaxFloors. marblesCount = #{marblesCount}, dropsCount = #{dropsCount}"
